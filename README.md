@@ -1,6 +1,5 @@
 ## Boas vindas ao meu perfil 💙💙
-Meu nome é Ppx.Nicolly
-
+Meu nome é Ppx.Nicolly 
 - Estou estudando na Alura
 
 - Estou me desenvolvendo na linguagem JavaScript
